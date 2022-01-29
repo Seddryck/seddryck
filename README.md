@@ -5,6 +5,6 @@ I'm an architect, leader and public speaker specialized in the field of data. I'
 
 - 🔭 I’m currently working on a Data Centricity Platform for [Elia](https://github.com/eliagroup/)
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on any data sharing open source solution
+- 👯 I’m looking to collaborate on any open-source solution in the field of data sharing
 - 💬 Ask me about data solutions, data centricity or Evolving Architectures and team empowerment
 - 📫 How to reach me: twitter [@Seddryck](https://twitter.com/Seddryck)
